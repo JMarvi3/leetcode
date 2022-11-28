@@ -24,19 +24,19 @@
 * [x] [125\. Valid Palindrome](125.py)
 * [x] [136\. Single Number](136.py)
 * [x] [168\. Excel Sheet Column Title](168.py)
-* [ ] 169\. Majority Element
-* [ ] 175\. Combine Two Tables
-* [ ] 176\. Second Highest Salary
-* [ ] 177\. Nth Highest Salary
-* [ ] 178\. Rank Scores
-* [ ] 180\. Consecutive Numbers
-* [ ] 181\. Employees Earning More Than Their Managers
-* [ ] 182\. Duplicate Emails441\. Arranging Coins
-* [ ] 183\. Customers Who Never Order
-* [ ] 190\. Reverse Bits
-* [ ] 191\. Number of 1 Bits
-* [ ] 193\. Valid Phone Numbers
-* [ ] 202\. Happy Number
+* [x] [169\. Majority Element](169.py)
+* [x] [175\. Combine Two Tables](175.sql)
+* [x] [176\. Second Highest Salary](176.sql)
+  * [ ] 177\. Nth Highest Salary
+  * [ ] 178\. Rank Scores
+  * [ ] 180\. Consecutive Numbers
+* [X] [181\. Employees Earning More Than Their Managers](181.sql)
+  * [ ] 182\. Duplicate Emails
+  * [ ] 183\. Customers Who Never Order
+* [x] [190\. Reverse Bits](190.py)
+* [x] [191\. Number of 1 Bits](191.py)
+  * [ ] 193\. Valid Phone Numbers
+* [x] [202\. Happy Number](202.py)
 * [ ] 205\. Isomorphic Strings
 * [ ] 206\. Reverse Linked List
 * [ ] 217\. Contains Duplicate
@@ -65,6 +65,7 @@
 * [ ] 414\. Third Maximum Number
 * [ ] 415\. Add Strings
 * [ ] 434\. Number of Segments in a String
+* [ ] 441\. Arranging Coins
 * [ ] 446\. Arithmetic Slices II * Subsequence
 * [ ] 448\. Find All Numbers Disappeared in an Array
 * [ ] 461\. Hamming Distance
