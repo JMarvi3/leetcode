@@ -37,10 +37,10 @@
 * [x] [191\. Number of 1 Bits](191.py)
   * [ ] 193\. Valid Phone Numbers
 * [x] [202\. Happy Number](202.py)
-* [ ] 205\. Isomorphic Strings
-* [ ] 206\. Reverse Linked List
-* [ ] 217\. Contains Duplicate
-* [ ] 219\. Contains Duplicate II
+* [x] [205\. Isomorphic Strings](205.py)
+* [x] [206\. Reverse Linked List](206.py)
+* [x] [217\. Contains Duplicate](217.py)
+* [x] [219\. Contains Duplicate II](219.py)
 * [ ] 222\. Count Complete Tree Nodes
 * [ ] 225\. Implement Stack using Queues
 * [ ] 231\. Power of Two
