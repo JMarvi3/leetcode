@@ -6,10 +6,10 @@
 * [x] [12\. Integer to Roman](12.py)
 * [x] [13\. Roman to Integer](13.py)
 * [x] [14\. Longest Common Prefix](14.py)
-* [ ] 20\. Valid Parentheses
-* [ ] 21\. Merge Two Sorted Lists
-* [ ] 26\. Remove Duplicates from Sorted Array
-* [ ] 27\. Remove Element
+* [x] [20\. Valid Parentheses](20.py)
+* [x] [21\. Merge Two Sorted Lists](21.py)
+* [x] [26\. Remove Duplicates from Sorted Array](26.py)
+* [x] [27\. Remove Element](27.py)
 * [ ] 33\. Search in Rotated Sorted Array
 * [ ] 35\. Search Insert Position
 * [ ] 53\. Maximum Subarray
