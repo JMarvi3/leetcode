@@ -19,11 +19,11 @@
 * [x] [69\. Sqrt(x)](69.py)
 * [x] [70\. Climbing Stairs](70.py)
 * [x] [83\. Remove Duplicates from Sorted List](83.py)
-* [ ] 88\. Merge Sorted Array
-* [ ] 121\. Best Time to Buy and Sell Stock
-* [ ] 125\. Valid Palindrome
-* [ ] 136\. Single Number
-* [ ] 168\. Excel Sheet Column Title
+* [x] [88\. Merge Sorted Array](88.py)
+* [x] [121\. Best Time to Buy and Sell Stock](121.py)
+* [x] [125\. Valid Palindrome](125.py)
+* [x] [136\. Single Number](136.py)
+* [x] [168\. Excel Sheet Column Title](168.py)
 * [ ] 169\. Majority Element
 * [ ] 175\. Combine Two Tables
 * [ ] 176\. Second Highest Salary
