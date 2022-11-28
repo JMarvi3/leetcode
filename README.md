@@ -10,15 +10,15 @@
 * [x] [21\. Merge Two Sorted Lists](21.py)
 * [x] [26\. Remove Duplicates from Sorted Array](26.py)
 * [x] [27\. Remove Element](27.py)
-* [ ] 33\. Search in Rotated Sorted Array
-* [ ] 35\. Search Insert Position
-* [ ] 53\. Maximum Subarray
-* [ ] 58\. Length of Last Word
-* [ ] 66\. Plus One
-* [ ] 67\. Add Binary
-* [ ] 69\. Sqrt(x)
-* [ ] 70\. Climbing Stairs
-* [ ] 83\. Remove Duplicates from Sorted List
+* [x] [33\. Search in Rotated Sorted Array](33.py)
+* [x] [35\. Search Insert Position](35.py)
+* [x] [53\. Maximum Subarray](53.py)
+* [x] [58\. Length of Last Word](58.py)
+* [x] [66\. Plus One](66.py)
+* [x] [67\. Add Binary](67.py)
+* [x] [69\. Sqrt(x)](69.py)
+* [x] [70\. Climbing Stairs](70.py)
+* [x] [83\. Remove Duplicates from Sorted List](83.py)
 * [ ] 88\. Merge Sorted Array
 * [ ] 121\. Best Time to Buy and Sell Stock
 * [ ] 125\. Valid Palindrome
