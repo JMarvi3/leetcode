@@ -1,11 +1,11 @@
 ### Leetcode problems
-* [ ] 1\. Two Sum
-* [ ] 2\. Add Two Numbers
-* [ ] 3\. Longest Substring Without Repeating Characters
-* [ ] 9\. Palindrome Number
-* [ ] 12\. Integer to Roman
-* [ ] 13\. Roman to Integer
-* [ ] 14\. Longest Common Prefix
+* [x] [1\. Two Sum](1.py)
+* [x] [2\. Add Two Numbers](2.py)
+* [X] [3\. Longest Substring Without Repeating Characters](3.py)
+* [X] [9\. Palindrome Number](9.py)
+* [x] [12\. Integer to Roman](12.py)
+* [x] [13\. Roman to Integer](13.py)
+* [x] [14\. Longest Common Prefix](14.py)
 * [ ] 20\. Valid Parentheses
 * [ ] 21\. Merge Two Sorted Lists
 * [ ] 26\. Remove Duplicates from Sorted Array
