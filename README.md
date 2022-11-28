@@ -42,11 +42,11 @@
 * [x] [217\. Contains Duplicate](217.py)
 * [x] [219\. Contains Duplicate II](219.py)
 * [ ] 222\. Count Complete Tree Nodes
-* [ ] 225\. Implement Stack using Queues
-* [ ] 231\. Power of Two
-* [ ] 242\. Valid Anagram
-* [ ] 252\. Meeting Rooms
-* [ ] 258\. Add Digits
+* [x] [225\. Implement Stack using Queues](225.py)
+* [x] [231\. Power of Two](231.py)
+* [x] [242\. Valid Anagram](242.py)
+* [x] [252\. Meeting Rooms](252.py)
+* [x] [258\. Add Digits](258.py)
 * [ ] 268\. Missing Number
 * [ ] 326\. Power of Three
 * [ ] 338\. Counting Bits
