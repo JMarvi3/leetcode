@@ -41,19 +41,19 @@
 * [x] [206\. Reverse Linked List](206.py)
 * [x] [217\. Contains Duplicate](217.py)
 * [x] [219\. Contains Duplicate II](219.py)
-* [ ] 222\. Count Complete Tree Nodes
+  * [ ] 222\. Count Complete Tree Nodes
 * [x] [225\. Implement Stack using Queues](225.py)
 * [x] [231\. Power of Two](231.py)
 * [x] [242\. Valid Anagram](242.py)
 * [x] [252\. Meeting Rooms](252.py)
 * [x] [258\. Add Digits](258.py)
-* [ ] 268\. Missing Number
-* [ ] 326\. Power of Three
-* [ ] 338\. Counting Bits
-* [ ] 342\. Power of Four
-* [ ] 344\. Reverse String
-* [ ] 345\. Reverse Vowels of a String
-* [ ] 349\. Intersection of Two Arrays
+* [x] [268\. Missing Number](268.py)
+* [x] [326\. Power of Three](326.py)
+* [x] [338\. Counting Bits](338.py)
+* [x] [342\. Power of Four](342.py)
+* [x] [344\. Reverse String](344.py)
+* [x] [345\. Reverse Vowels of a String](345.py)
+* [x] [349\. Intersection of Two Arrays](349.py)
 * [ ] 350\. Intersection of Two Arrays II
 * [ ] 367\. Valid Perfect Square
 * [ ] 383\. Ransom Note
