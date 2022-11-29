@@ -54,14 +54,14 @@
 * [x] [344\. Reverse String](344.py)
 * [x] [345\. Reverse Vowels of a String](345.py)
 * [x] [349\. Intersection of Two Arrays](349.py)
-* [ ] 350\. Intersection of Two Arrays II
-* [ ] 367\. Valid Perfect Square
-* [ ] 383\. Ransom Note
-* [ ] 387\. First Unique Character in a String
-* [ ] 389\. Find the Difference
-* [ ] 392\. Is Subsequence
-* [ ] 409\. Longest Palindrome
-* [ ] 412\. Fizz Buzz
+* [x] [350\. Intersection of Two Arrays II](350.py)
+* [x] [367\. Valid Perfect Square](367.py)
+* [x] [383\. Ransom Note](383.py)
+* [x] [387\. First Unique Character in a String](387.py)
+* [x] [389\. Find the Difference](389.py)
+* [x] [392\. Is Subsequence](392.py)
+* [x] [409\. Longest Palindrome](409.py)
+* [x] [412\. Fizz Buzz](412.py)
 * [ ] 414\. Third Maximum Number
 * [ ] 415\. Add Strings
 * [ ] 434\. Number of Segments in a String
