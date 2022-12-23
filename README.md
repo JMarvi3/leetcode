@@ -62,14 +62,14 @@
 * [x] [392\. Is Subsequence](392.py)
 * [x] [409\. Longest Palindrome](409.py)
 * [x] [412\. Fizz Buzz](412.py)
-* [ ] 414\. Third Maximum Number
-* [ ] 415\. Add Strings
-* [ ] 434\. Number of Segments in a String
-* [ ] 441\. Arranging Coins
-* [ ] 446\. Arithmetic Slices II * Subsequence
-* [ ] 448\. Find All Numbers Disappeared in an Array
-* [ ] 461\. Hamming Distance
-* [ ] 476\. Number Complement
+* [x] [414\. Third Maximum Number](414.py)
+* [x] [415\. Add Strings](415.py)
+* [x] [434\. Number of Segments in a String](434.py)
+* [x] [441\. Arranging Coins](441.py)
+  * [ ] 446\. Arithmetic Slices II * Subsequence
+* [x] [448\. Find All Numbers Disappeared in an Array](448.py)
+* [x] [461\. Hamming Distance](461.py)
+* [X] [476\. Number Complement](476.py)
 * [ ] 482\. License Key Formatting
 * [ ] 485\. Max Consecutive Ones
 * [ ] 496\. Next Greater Element I
