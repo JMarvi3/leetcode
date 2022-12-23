@@ -70,7 +70,7 @@
 * [x] [448\. Find All Numbers Disappeared in an Array](448.py)
 * [x] [461\. Hamming Distance](461.py)
 * [X] [476\. Number Complement](476.py)
-* [ ] 482\. License Key Formatting
+* [X] [482\. License Key Formatting](482.py)
 * [ ] 485\. Max Consecutive Ones
 * [ ] 496\. Next Greater Element I
 * [ ] 504\. Base 7
