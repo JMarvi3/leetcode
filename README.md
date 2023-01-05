@@ -71,10 +71,10 @@
 * [x] [461\. Hamming Distance](461.py)
 * [X] [476\. Number Complement](476.py)
 * [X] [482\. License Key Formatting](482.py)
-* [ ] 485\. Max Consecutive Ones
-* [ ] 496\. Next Greater Element I
-* [ ] 504\. Base 7
-* [ ] 506\. Relative Ranks
+* [x] [485\. Max Consecutive Ones](485.py)
+* [X] [496\. Next Greater Element I](496.py)
+* [x] [504\. Base 7](504.py)
+* [x] [506\. Relative Ranks](506.py)
 * [ ] 509\. Fibonacci Number
 * [ ] 511\. Game Play Analysis I
 * [ ] 512\. Game Play Analysis II
