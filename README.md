@@ -75,14 +75,14 @@
 * [X] [496\. Next Greater Element I](496.py)
 * [x] [504\. Base 7](504.py)
 * [x] [506\. Relative Ranks](506.py)
-* [ ] 509\. Fibonacci Number
-* [ ] 511\. Game Play Analysis I
-* [ ] 512\. Game Play Analysis II
-* [ ] 520\. Detect Capital
-* [ ] 541\. Reverse String II
-* [ ] 551\. Student Attendance Record I
-* [ ] 557\. Reverse Words in a String III
-* [ ] 575\. Distribute Candies
+* [x] [509\. Fibonacci Number](509.py)
+* [x] [511\. Game Play Analysis I](511.sql)
+  * [ ] 512\. Game Play Analysis II
+* [X] [520\. Detect Capital](520.py)
+* [x] [541\. Reverse String II](541.py)
+* [x] [551\. Student Attendance Record I](551.py)
+* [x] [557\. Reverse Words in a String III](557.py)
+* [x] [575\. Distribute Candies](575.py)
 * [ ] 577\. Employee Bonus
 * [ ] 584\. Find Customer Referee
 * [ ] 586\. Customer Placing the Largest Number of Orders
